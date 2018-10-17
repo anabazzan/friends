@@ -7980,7 +7980,7 @@ Phoebe Joey
 Chandler Monica
 Rachel Ross
 Ross Emily
-Rachel fligthAttendant
+Rachel flightAttendant
 
 
 #s5e2
@@ -13544,7 +13544,7 @@ Doug Chandler
 Doug Monica
 Chandler Monica
 Mona Ross
-Rachel nurse_1_11
+Rachel nurse_8_11
 Rachel DrSchiff
 Rachel Monica
 Rachel Phoebe
